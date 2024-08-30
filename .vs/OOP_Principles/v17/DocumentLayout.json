@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Portfolio\\OOP basics\\OOP_Principles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D36814B0-69DD-4D80-9EA1-C2DA046381B2}|OOP_Principles\\OOP_Principles.csproj|d:\\portfolio\\oop basics\\oop_principles\\oop_principles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36814B0-69DD-4D80-9EA1-C2DA046381B2}|OOP_Principles\\OOP_Principles.csproj|solutionrelative:oop_principles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36814B0-69DD-4D80-9EA1-C2DA046381B2}|OOP_Principles\\OOP_Principles.csproj|d:\\portfolio\\oop basics\\oop_principles\\oop_principles\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36814B0-69DD-4D80-9EA1-C2DA046381B2}|OOP_Principles\\OOP_Principles.csproj|solutionrelative:oop_principles\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36814B0-69DD-4D80-9EA1-C2DA046381B2}|OOP_Principles\\OOP_Principles.csproj|d:\\portfolio\\oop basics\\oop_principles\\oop_principles\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36814B0-69DD-4D80-9EA1-C2DA046381B2}|OOP_Principles\\OOP_Principles.csproj|solutionrelative:oop_principles\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36814B0-69DD-4D80-9EA1-C2DA046381B2}|OOP_Principles\\OOP_Principles.csproj|d:\\portfolio\\oop basics\\oop_principles\\oop_principles\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36814B0-69DD-4D80-9EA1-C2DA046381B2}|OOP_Principles\\OOP_Principles.csproj|solutionrelative:oop_principles\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36814B0-69DD-4D80-9EA1-C2DA046381B2}|OOP_Principles\\OOP_Principles.csproj|d:\\portfolio\\oop basics\\oop_principles\\oop_principles\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36814B0-69DD-4D80-9EA1-C2DA046381B2}|OOP_Principles\\OOP_Principles.csproj|solutionrelative:oop_principles\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36814B0-69DD-4D80-9EA1-C2DA046381B2}|OOP_Principles\\OOP_Principles.csproj|d:\\portfolio\\oop basics\\oop_principles\\oop_principles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D36814B0-69DD-4D80-9EA1-C2DA046381B2}|OOP_Principles\\OOP_Principles.csproj|solutionrelative:oop_principles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Programmer.cs",
+              "DocumentMoniker": "D:\\Portfolio\\OOP basics\\OOP_Principles\\OOP_Principles\\Programmer.cs",
+              "RelativeDocumentMoniker": "OOP_Principles\\Programmer.cs",
+              "ToolTip": "D:\\Portfolio\\OOP basics\\OOP_Principles\\OOP_Principles\\Programmer.cs",
+              "RelativeToolTip": "OOP_Principles\\Programmer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:33:14.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Portfolio\\OOP basics\\OOP_Principles\\OOP_Principles\\Manager.cs",
+              "RelativeDocumentMoniker": "OOP_Principles\\Manager.cs",
+              "ToolTip": "D:\\Portfolio\\OOP basics\\OOP_Principles\\OOP_Principles\\Manager.cs",
+              "RelativeToolTip": "OOP_Principles\\Manager.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAewBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:33:04.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Portfolio\\OOP basics\\OOP_Principles\\OOP_Principles\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP_Principles\\Employee.cs",
+              "ToolTip": "D:\\Portfolio\\OOP basics\\OOP_Principles\\OOP_Principles\\Employee.cs",
+              "RelativeToolTip": "OOP_Principles\\Employee.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:22:30.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Portfolio\\OOP basics\\OOP_Principles\\OOP_Principles\\Form1.cs",
+              "RelativeDocumentMoniker": "OOP_Principles\\Form1.cs",
+              "ToolTip": "D:\\Portfolio\\OOP basics\\OOP_Principles\\OOP_Principles\\Form1.cs",
+              "RelativeToolTip": "OOP_Principles\\Form1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwB0AAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:23:55.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Portfolio\\OOP basics\\OOP_Principles\\OOP_Principles\\Person.cs",
+              "RelativeDocumentMoniker": "OOP_Principles\\Person.cs",
+              "ToolTip": "D:\\Portfolio\\OOP basics\\OOP_Principles\\OOP_Principles\\Person.cs",
+              "RelativeToolTip": "OOP_Principles\\Person.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwC4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:11:48.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Portfolio\\OOP basics\\OOP_Principles\\OOP_Principles\\Form1.cs",
+              "RelativeDocumentMoniker": "OOP_Principles\\Form1.cs",
+              "ToolTip": "D:\\Portfolio\\OOP basics\\OOP_Principles\\OOP_Principles\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "OOP_Principles\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:09:15.964Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

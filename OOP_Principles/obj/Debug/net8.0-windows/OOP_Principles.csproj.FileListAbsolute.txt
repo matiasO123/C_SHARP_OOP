@@ -1,0 +1,16 @@
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\bin\Debug\net8.0-windows\OOP_Principles.exe
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\bin\Debug\net8.0-windows\OOP_Principles.deps.json
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\bin\Debug\net8.0-windows\OOP_Principles.runtimeconfig.json
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\bin\Debug\net8.0-windows\OOP_Principles.dll
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\bin\Debug\net8.0-windows\OOP_Principles.pdb
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\obj\Debug\net8.0-windows\OOP_Principles.Form1.resources
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\obj\Debug\net8.0-windows\OOP_Principles.csproj.GenerateResource.cache
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\obj\Debug\net8.0-windows\OOP_Principles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\obj\Debug\net8.0-windows\OOP_Principles.AssemblyInfoInputs.cache
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\obj\Debug\net8.0-windows\OOP_Principles.AssemblyInfo.cs
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\obj\Debug\net8.0-windows\OOP_Principles.csproj.CoreCompileInputs.cache
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\obj\Debug\net8.0-windows\OOP_Principles.dll
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\obj\Debug\net8.0-windows\refint\OOP_Principles.dll
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\obj\Debug\net8.0-windows\OOP_Principles.pdb
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\obj\Debug\net8.0-windows\OOP_Principles.genruntimeconfig.cache
+D:\Portfolio\OOP basics\OOP_Principles\OOP_Principles\obj\Debug\net8.0-windows\ref\OOP_Principles.dll
